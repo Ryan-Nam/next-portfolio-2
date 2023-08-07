@@ -1,6 +1,6 @@
 import { useTheme } from 'next-themes'
 
-export default function dkModeTgleBtn() {
+export default function DkModeTgleBtn() {
     const { theme, setTheme } = useTheme()
     return (
         <>
