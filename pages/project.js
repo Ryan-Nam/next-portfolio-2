@@ -11,7 +11,7 @@ export default function project({ projects }) {
     <Layout>
       <div className="flex flex-col items-center justify-center min-h-screen px-3 mb-10">
         <Head>
-          <title>Ryan's Portfolio</title>
+          <title>Ryan Portfolio</title>
           <meta name="description" content="Welcome to Ryan portfolio" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
