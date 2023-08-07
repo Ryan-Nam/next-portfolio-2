@@ -15,7 +15,7 @@ export default function Hero() {
         </p>
         <div className="flex justify-center">
           <Link href="/project" className="btn-project">
-            Let's see my effort
+            Lets see my effort
           </Link>
         </div>
       </div>
