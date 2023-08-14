@@ -9,11 +9,11 @@ export default function footer() {
               href="/"
               className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900"
             >
-              <span className="ml-3 text-xl">Ryan Portfolio</span>
+              <span className="ml-3 text-xl capitalize">ryan portfolio</span>
             </Link>
 
-            <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
-              © 2023 Ryan Nam —
+            <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4 capitalize">
+              © 2023 ryan nam —
               <a
                 href="https://www.linkedin.com/in/ryan-nam/"
                 rel="noopener noreferrer"
